@@ -1,7 +1,8 @@
-  #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS  " tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title="ESPORTES",BAND SPORTS
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS  " tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title="ESPORTES",BAND SPORTS
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/22
  
-    #EXTINF:-1 tvg-id="" tvg-name="COMBATE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/combate.png" group-title="ESPORTES",COMBATE    
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/combate.png" group-title="ESPORTES",COMBATE    
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/34
  
 #EXTINF:-1 tvg-id="" tvg-name="ESPN  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/espn.png" group-title="ESPORTES",ESPN  
@@ -15,25 +16,17 @@ http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/70
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="ESPORTES",FOX SPORTS
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/90
  
- #EXTINF:-1 tvg-id="" tvg-name="SPORTV  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="ESPORTES",SPORTV
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="ESPORTES",SPORTV
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/227
- 
- 
  
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="ESPORTES",SPORTV3
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/227
-
-**separado
- 
+http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/22
  
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiereclubes.png" group-title="ESPORTES",PREMIERE CLUBES
 https://origin.canaismax.com/mylive/premiere1sd/video.m3u8?md5=eCFKJoeUPCzhXEGf0i04PQ&expires=1581128553
 
-
- 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 2
 https://origin.canaismax.com/mylive/premiere2sd/video.m3u8?md5=ong9oBmYNV61kMIiRfmGVw&expires=1581128629
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 3  
 https://origin.canaismax.com/mylive/premiere3sd/video.m3u8?md5=m4BvN2T6J2CRLWig4jXEmA&expires=1581128668
@@ -41,144 +34,71 @@ https://origin.canaismax.com/mylive/premiere3sd/video.m3u8?md5=m4BvN2T6J2CRLWig4
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 4
 https://origin.canaismax.com/mylive/premiere5sd/video.m3u8?md5=lwSNh5o8vrxFbQbAPHM-tw&expires=1581128695
  
- 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 5
 https://origin.canaismax.com/mylive/premiere5sd/video.m3u8?md5=j2ePR0DJ0XK4m36zmXcAxA&expires=1581128732
  
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 6
 https://origin.canaismax.com/mylive/premiere1hd/video.m3u8?md5=mIO2qFfTwefUjOtikztgpg&expires=1580986054
 
-
- 
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="CANAIS BR",GLOBO
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/118
- 
- 
  
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" group-title="CANAIS BR",SBT SP
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/219
 
- 
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="CANAIS BR",BAND SP
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/20
 
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="CANAIS BR",RECORD
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/202
 
- 
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="CANAIS BR",REDE TV
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/213 
  
 #EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxpremium1.png" group-title="FILMES",FOX PREMIUM
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/247
- 
 #EXTINF:-1 tvg-id="" tvg-name="FOX  " tvg-logo="" group-title="FILMES",TCM
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/237 
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="TNT " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png" group-title="FILMES",TNT
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/252
-
- 
 #EXTINF:-1 tvg-id="" tvg-name="TNT " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png" group-title="FILMES",HBO2
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/144
-
- 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="FILMES",TELECINE PIPOCA    
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/245
-
- 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="FILMES",TELECINE PREMIUM
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/247
-
- 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title="FILMES",TELECINE ACTION
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/239
-
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hboplus.png" group-title="FILMES",HBO PLUS
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/141
-
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="FILMES",SPACE
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/225
-
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="MEGAPIX  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="FILMES",HBO FAMILY  
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/138
-
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="HBO  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title="FILMES",HBO  
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/144
-
 #EXTINF:-1 tvg-id="" tvg-name="FX  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcfun.png" group-title="FILMES",TELE FUN
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/243
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST  " tvg-logo="" group-title="DESENHOS",TONCAST
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/255
-
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/nick.png" group-title="DESENHOS",NICKELODEON  
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/178
-
- 
- 
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR "" group-title="DESENHOS",NICK JR
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/176
-
- 
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneyxd.png" group-title="DESENHOS",DISNEY XD
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/65
-
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneyjr.png" group-title="DESENHOS",DISNEY JR
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/63
-
- 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="DESENHOS",DISNEY CHANNEL
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/61
-
- 
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/boomerang.png" group-title="DESENHOS",BOOMERANG
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/26
-
- 
- 
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET  " tvg-logo="" group-title="DOCUMENTARIOS",ANIMAL PLANET
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/8
-
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/43
-
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="DOCUMENTARIOS",DISCOVERY H&H
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/47
-
-
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/57
 
