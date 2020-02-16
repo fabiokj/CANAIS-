@@ -1,138 +1,178 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS  " tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title="ESPORTES",BAND SPORTS
-https://l.llllllllllllllllllllllllllllllllllllllll.fun/5005c590-ada3-4291-9723-de7611117e90
- 
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/combate.png" group-title="ESPORTES",COMBATE    
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/34
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/espn.png" group-title="ESPORTES",ESPN  
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/70
-
- 
- #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS2  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="ESPORTES",FOX SPORTS2
- http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/88
-
- 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="ESPORTES",FOX SPORTS
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/90
- 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="ESPORTES",SPORTV
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/227
- 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="ESPORTES",SPORTV3
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/22
- 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiereclubes.png" group-title="ESPORTES",PREMIERE CLUBES
-https://origin.canaismax.com/mylive/premiere1sd/video.m3u8?md5=eCFKJoeUPCzhXEGf0i04PQ&expires=1581128553
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 2
-https://origin.canaismax.com/mylive/premiere2sd/video.m3u8?md5=ong9oBmYNV61kMIiRfmGVw&expires=1581128629
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 3  
-https://origin.canaismax.com/mylive/premiere3sd/video.m3u8?md5=m4BvN2T6J2CRLWig4jXEmA&expires=1581128668
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 4
-https://origin.canaismax.com/mylive/premiere5sd/video.m3u8?md5=lwSNh5o8vrxFbQbAPHM-tw&expires=1581128695
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 5
-https://origin.canaismax.com/mylive/premiere5sd/video.m3u8?md5=j2ePR0DJ0XK4m36zmXcAxA&expires=1581128732
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 6
-https://origin.canaismax.com/mylive/premiere1hd/video.m3u8?md5=mIO2qFfTwefUjOtikztgpg&expires=1580986054
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="CANAIS BR",GLOBO
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/118
- 
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" group-title="CANAIS BR",SBT SP
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/219
-
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="CANAIS BR",BAND SP
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/20
-
-#EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="CANAIS BR",RECORD
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/202
-
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="CANAIS BR",REDE TV
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/213 
- 
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxpremium1.png" group-title="FILMES",FOX PREMIUM
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/247
-#EXTINF:-1 tvg-id="" tvg-name="FOX  " tvg-logo="" group-title="FILMES",TCM
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/237 
-#EXTINF:-1 tvg-id="" tvg-name="TNT " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png" group-title="FILMES",TNT
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/252
-#EXTINF:-1 tvg-id="" tvg-name="TNT " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png" group-title="FILMES",HBO2
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/144
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="FILMES",TELECINE PIPOCA    
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/245
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="FILMES",TELECINE PREMIUM
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/247
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title="FILMES",TELECINE ACTION
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/239
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hboplus.png" group-title="FILMES",HBO PLUS
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/141
-#EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="FILMES",SPACE
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/225
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="FILMES",HBO FAMILY  
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/138
-#EXTINF:-1 tvg-id="" tvg-name="HBO  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title="FILMES",HBO  
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/144
-#EXTINF:-1 tvg-id="" tvg-name="FX  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcfun.png" group-title="FILMES",TELE FUN
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/243
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST  " tvg-logo="" group-title="DESENHOS",TONCAST
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/255
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/nick.png" group-title="DESENHOS",NICKELODEON  
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/178
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR "" group-title="DESENHOS",NICK JR
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/176
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneyxd.png" group-title="DESENHOS",DISNEY XD
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/65
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneyjr.png" group-title="DESENHOS",DISNEY JR
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/63
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="DESENHOS",DISNEY CHANNEL
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/61
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/boomerang.png" group-title="DESENHOS",BOOMERANG
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/26
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET  " tvg-logo="" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/43
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="DOCUMENTARIOS",DISCOVERY H&H
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/47
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/57
-
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/148
-
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title="DOCUMENTARIOS",H2
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/134
-
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/172
-
- 
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/174
-
-
-
- #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS " tvg-logo="" group-title="NOTICIAS",VIVA
- 
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/263
-
- 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS " tvg-logo="" group-title="NOTICIAS",COMEDY CENTRAL
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/36
-
- 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/bandnews.png"group-title="NOTICIAS",BAND NEWS
-http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/17
-
+#EXTINF: -1,AXN
+http://186.103.190.2:8000/play/a027
+#EXTINF: -1,AE Mundo
+http://186.103.190.2:8000/play/a00z
+#EXTINF: -1,AE Mundo
+http://186.103.190.2:8000/play/a00z
+#EXTINF: -1,AXN
+http://186.103.190.2:8000/play/a027
+#EXTINF: -1,Planeta Animal
+http://186.103.190.2:8000/play/a00q
+#EXTINF: -1,Bang TV
+http://186.103.190.2:8000/play/a01y
+#EXTINF: -1,CDF Basico
+http://186.103.190.2:8000/play/a00y
+#EXTINF: -1,CDF PREMIUM
+http://186.103.190.2:8000/play/a00c
+#EXTINF: -1,CNN Chile
+http://186.103.190.2:8000/play/a01i
+#EXTINF: -1,CNN Español
+http://186.103.190.2:8000/play/a005
+#EXTINF: -1,Canal 13
+http://186.103.190.2:8000/play/a00a
+#EXTINF: -1,Canal Claro
+http://186.103.190.2:8000/play/a01t
+#EXTINF: -1,Canal de las estrellas
+http://186.103.190.2:8000/play/a012
+#EXTINF: -1,Cartoon Network
+http://186.103.190.2:8000/play/a01l
+#EXTINF: -1,Cinecanal
+http://186.103.190.2:8000/play/a01b
+#EXTINF: -1,Cinema Dinamita
+http://186.103.190.2:8000/play/a00m
+#EXTINF: -1,Cinemax
+http://186.103.190.2:8000/play/a025
+#EXTINF: -1,Cine Claro
+http://186.103.190.2:8000/play/a02b
+#EXTINF: -1,ClaroSports
+http://186.103.190.2:8000/play/a01n
+#EXTINF: -1,Claromusic
+http://186.103.190.2:8000/play/a01z
+#EXTINF: -1,Canal de descubrimiento
+http://186.103.190.2:8000/play/a00p
+#EXTINF: -1,ID de descubrimiento
+http://186.103.190.2:8000/play/a01s
+#EXTINF: -1,Discovery Kids
+http://186.103.190.2:8000/play/a004
+#EXTINF: -1,Discovery Turbo
+http://186.103.190.2:8000/play/a02d
+#EXTINF: -1,canal Disney
+http://186.103.190.2:8000/play/a00o
+#EXTINF: -1,Disney Jr
+http://186.103.190.2:8000/play/a00l
+#EXTINF: -1,Disney XD
+http://186.103.190.2:8000/play/a018
+#EXTINF: -1,E Entertainment
+http://186.103.190.2:8000/play/a00s
+#EXTINF: -1,ESPN
+http://186.103.190.2:8000/play/a00u
+#EXTINF: -1,ESPN 2
+http://186.103.190.2:8000/play/a00v
+#EXTINF: -1,ESPN 3
+http://186.103.190.2:8000/play/a02e
+#EXTINF: -1,Rodear a
+http://186.103.190.2:8000/play/a01p
+#EXTINF: -1,FOX P ACTION
+http://186.103.190.2:8000/play/a00g
+#EXTINF: -1,FOX P PELÍCULAS
+http://186.103.190.2:8000/play/a00e
+#EXTINF: -1,FOX P SERIE E
+http://186.103.190.2:8000/play/a00f
+#EXTINF: -1,Canal Fox
+http://186.103.190.2:8000/play/a01d
+#EXTINF: -1,vida de zorro
+http://186.103.190.2:8000/play/a01h
+#EXTINF: -1,Fox Sports
+http://186.103.190.2:8000/play/a00t
+#EXTINF: -1,Fox Sports 2
+http://186.103.190.2:8000/play/a013
+#EXTINF: -1,Fox Sports 3
+http://186.103.190.2:8000/play/a014
+#EXTINF: -1,Fox Sports Premium
+http://186.103.190.2:8000/play/a00d
+#EXTINF: -1,TV GOL
+http://186.103.190.2:8000/play/a00w
+#EXTINF: -1,HBO
+http://186.103.190.2:8000/play/a024
+#EXTINF: -1,HBO 2
+http://186.103.190.2:8000/play/a00h
+#EXTINF: -1,Familia HBO
+http://186.103.190.2:8000/play/a00k
+#EXTINF: -1,HBO Plus
+http://186.103.190.2:8000/play/a00i
+#EXTINF: -1,Canal Historia
+http://186.103.190.2:8000/play/a01a
+#EXTINF: -1,Hogar y salud
+http://186.103.190.2:8000/play/a01v
+#EXTINF: -1,Me senté
+http://186.103.190.2:8000/play/a01e
+#EXTINF: -1,la roja
+http://186.103.190.2:8000/play/a006
+#EXTINF: -1,MTV
+http://186.103.190.2:8000/play/a01f
+#EXTINF: -1,Max Prime
+http://186.103.190.2:8000/play/a00j
+#EXTINF: -1,Nat Geo
+http://186.103.190.2:8000/play/a019
+#EXTINF: -1,NatGeo Kids
+http://186.103.190.2:8000/play/a01k
+#EXTINF: -1,Nick Jr
+http://186.103.190.2:8000/play/a02c
+#EXTINF: -1,Nickelodeon
+http://186.103.190.2:8000/play/a017
+#EXTINF: -1,Orbe 21
+http://186.103.190.2:8000/play/a020
+#EXTINF: -1,Sony
+http://186.103.190.2:8000/play/a026
+#EXTINF: -1,TBS
+http://186.103.190.2:8000/play/a01u
+#EXTINF: -1,TCM
+http://186.103.190.2:8000/play/a01j
+#EXTINF: -1,TNT
+http://186.103.190.2:8000/play/a01m
+#EXTINF: -1,TVE
+http://186.103.190.2:8000/play/a01q
+#EXTINF: -1,Telemundo
+http://186.103.190.2:8000/play/a015
+#EXTINF: -1,TyC Sports
+http://186.103.190.2:8000/play/a00x
+#EXTINF: -1,Universal
+http://186.103.190.2:8000/play/a01c
+#EXTINF: -1,ViaX
+http://186.103.190.2:8000/play/a011
+#EXTINF: -1,Warner
+http://186.103.190.2:8000/play/a00r
+#EXTINF: -1,Zona latina
+http://186.103.190.2:8000/play/a01g
+#EXTINF: -1,AE Mundo
+http://186.103.190.2:8000/play/a00n
+#EXTINF: -1,AXN
+http://186.103.190.2:8000/play/a03e
+#EXTINF: -1,CHV
+http://186.103.190.2:8000/play/a010
+#EXTINF: -1,CNN Chile
+http://186.103.190.2:8000/play/a01r
+#EXTINF: -1,Cinemax
+http://186.103.190.2:8000/play/a03c
+#EXTINF: -1,Cine Claro
+http://186.103.190.2:8000/play/a03n
+#EXTINF: -1,ClaroSports
+http://186.103.190.2:8000/play/a01w
+#EXTINF: -1,Claromusico
+http://186.103.190.2:8000/play/a02h
+#EXTINF: -1,Discovery Turbo
+http://186.103.190.2:8000/play/a03p
+#EXTINF: -1,ESPN 2 CO
+http://186.103.190.2:8000/play/a032
+#EXTINF: -1,ESPN 3
+http://186.103.190.2:8000/play/a03r
+#EXTINF: -1,EsneTV
+http://186.103.190.2:8000/play/a03q
+#EXTINF: -1,FOX P SERIE E
+http://186.103.190.2:8000/play/a016
+#EXTINF: -1,FX
+http://186.103.190.2:8000/play/a03g
+#EXTINF: -1,HBO
+http://186.103.190.2:8000/play/a03b
+#EXTINF: -1,MTV
+http://186.103.190.2:8000/play/a01o
+#EXTINF: -1,Nick Jr
+http://186.103.190.2:8000/play/a03o
+#EXTINF: -1,Orbe 21
+http://186.103.190.2:8000/play/a02n
+#EXTINF: -1,RCN Novelas
+http://186.103.190.2:8000/play/a022
+#EXTINF: -1,Sony
+http://186.103.190.2:8000/play/a03d
+#EXTINF: -1,Espacio
