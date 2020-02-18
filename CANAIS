@@ -217,4 +217,139 @@ http://new.lista.red:80/live/Lucas3453/lp197114/84794.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="VARIEDADES", MTV SD
 http://new.lista.red:80/live/Lucas3453/lp197114/84795.m3u8
+#EXTINF:-1, Atualizada
+https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
+#EXTINF:-1, SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1, SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1, SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:-1, SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1, SBT - PE | CARUARÚ
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1, SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1, SBT - MA | IMPERATRIZ
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+#EXTINF:-1, Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+#EXTINF:-1, REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:-1, REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1,  REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1, REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1, TV VITORIA - RECORD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
+#EXTINF:-1, TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1, TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
+#EXTINF:-1,TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1,TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1, CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+#EXTINF:-1, TV UP HD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
+#EXTINF:-1, TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+#EXTINF:-1,NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+#EXTINF:-1, AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85399.m3u8
+#EXTINF:-1, ANIMAL PLANET FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85400.m3u8
+#EXTINF:-1, HGTV SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85406.m3u8
+#EXTINF:-1, HGTV HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85407.m3u8
+#EXTINF:-1, HGTV HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85408.m3u8
+#EXTINF:-1, H2 SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85430.m3u8
+#EXTINF:-1, DISCOVERY TURBO HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85423.m3u8
+#EXTINF:-1, DISCOVERY TURBO FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85424.m3u8
+#EXTINF:-1, COMEDY CENTRAL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85663.m3u8
+#EXTINF:-1, COMEDY CENTRAL SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85664.m3u8
+#EXTINF:-1, COMEDY CENTRAL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85665.m3u8
+#EXTINF:-1, COMEDY CENTRAL HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85666.m3u8
+#EXTINF:-1, COMEDY CENTRAL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85667.m3u8
+#EXTINF:-1, TLC SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85668.m3u8
+#EXTINF:-1, TLC SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85669.m3u8
+#EXTINF:-1, TLC HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85670.m3u8
+#EXTINF:-1, TLC HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85671.m3u8
+#EXTINF:-1, TLC FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85672.m3u8
+#EXTINF:-1, OFF FHD
+#EXTINF:-1, AD BELÉM
+https://cdn.jmvstream.com/w/tvadb/_definst_/tvadb/chunklist_w1913374810.m3u8
+#EXTINF:-1, FILMES GOSPEL
+https://stmv3.srvstm.com/gospelf/gospelf/playlist.m3u8?wowzasessionid=1058612829
+#EXTINF:-1, TV GIDEÕES
+https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1308438633.m3u8
+#EXTINF:-1, TV MISSÃO 1
+https://v7.ciclano.io:1443/tvmissao/_definst_/tvmissao/playlist.m3u8
+#EXTINF:-1, TV MISSÃO 2
+https://v7.ciclano.io:1443/tvmissao/_definst_/tvmissao/chunklist_w1315759276.m3u8
+#EXTINF:-1, TV MISSÃO 3
+https://v7.ciclano.io:1443/tvmissao/_definst_/tvmissao/chunklist_w2134781398.m3u8
+#EXTINF:-1, IAPTD - 1
+https://5a7d54e35f9d2.streamlock.net/iaptdbr/smil:iaptdbr.smil/chunklist_w1390664254_b3400000.m3u8
+#EXTINF:-1, IAPTD - 2
+https://5a7d54e35f9d2.streamlock.net/iaptdbr/smil:iaptdbr.smil/chunklist_w1432335046_b3400000.m3u8
+#EXTINF:-1, IAPTD - 3
+https://5a7d54e35f9d2.streamlock.net/iaptdbr/smil:iaptdbr.smil/chunklist_w1571409759_b3400000.m3u8
+#EXTINF:-1, TV Jesus Cristo
+https://5a7d54e35f9d2.streamlock.net/apalavra/apalavra.smil/chunklist_w1983661431_b1300000.m3u8
+#EXTINF:-1, TV Jesus Cristo
+https://5a7d54e35f9d2.streamlock.net/apalavra/apalavra.smil/chunklist_w1983661431_b850000.m3u8
+#EXTINF:-1, IGREJA MUNDIAL
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w865463912_b846000.m3u8
+#EXTINF:-1, IGREJA MUNDIAL
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1935480309_b846000.m3u8
+#EXTINF:-1, Renacer Gospel
+https://stmv1.srvstm.com/dinalva9388/dinalva9388/playlist.m3u8?wowzasessionid=2034066586
+#EXTINF:-1, Renacer Gospel
+https://stmv1.srvstm.com/dinalva9388/dinalva9388/playlist.m3u8?wowzasessionid=1126780056
+#EXTINF:-1, Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1, Sobrenatural TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w648125765.m3u8
+#EXTINF:-1, Sobrenatural TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1985207641.m3u8
+#EXTINF:-1, TV Boa Esperança
+https://stmv3.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=1080900389
+#EXTINF:-1, TV Boa Esperança
+https://stmv3.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=3394794
+#EXTINF:-1, TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w275298747.m3u8
+#EXTINF:-1, TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w199330032.m3u8
+#EXTINF:-1, TV Liberdade
+http://hls.fm1.com.br:8080/hls/tvliberdade.m3u8
+#EXTINF:-1, Web TV Fronteira
+https://stmv4.srvstm.com/aguiberto6360/aguiberto6360/playlist.m3u8?wowzasessionid=1806717882
+#EXTINF:-1, Web TV Fronteira
+https://stmv4.srvstm.com/aguiberto6360/aguiberto6360/playlist.m3u8?wowzasessionid=
 
