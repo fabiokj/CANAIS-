@@ -1,38 +1,220 @@
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY HD
-http://new.lista.red:80/live/Lucas3453/lp197114/85440.m3u8
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY HD²
-http://new.lista.red:80/live/Lucas3453/lp197114/85441.m3u8
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY FHD
-http://new.lista.red:80/live/Lucas3453/lp197114/85442.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD SD
-http://new.lista.red:80/live/Lucas3453/lp197114/85425.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD²" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD SD²
-http://new.lista.red:80/live/Lucas3453/lp197114/85426.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD²
-http://new.lista.red:80/live/Lucas3453/lp197114/85428.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD  HD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD  HD
-http://new.lista.red:80/live/Lucas3453/lp197114/85427.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
-http://new.lista.red:80/live/Lucas3453/lp197114/85429.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
-http://new.lista.red:80/live/Lucas3453/lp197114/85401.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD²
-http://new.lista.red:80/live/Lucas3453/lp197114/85402.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
-http://new.lista.red:80/live/Lucas3453/lp197114/85403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="https://3palavrinhas.com.br/wp-content/uploads/2019/09/shows-3palavrinhas-1-1.png" group-title="ESPECIAIS 24H",3 PALAVRINHAS
-http://new.lista.red:80/live/Lucas3453/lp197114/80189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24: APENAS UM SHOW*" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/apenas-um-show-png-3.png" group-title="ESPECIAIS 24H",24: APENAS UM SHOW*
-http://new.lista.red:80/live/Lucas3453/lp197114/80181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24: CHAVES" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/nome-chaves-png.png" group-title="ESPECIAIS 24H",24: CHAVES
-http://new.lista.red:80/live/Lucas3453/lp197114/80160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24: TODO MUNDO ODEIA O CRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title="ESPECIAIS 24H",24: TODO MUNDO ODEIA O CRIS
-http://new.lista.red:80/live/Lucas3453/lp197114/80183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24: Pica-Pau" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/pica-pau-300x251-1.png" group-title="ESPECIAIS 24H",24: Pica-Pau
-http://new.lista.red:80/live/Lucas3453/lp197114/80194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24: Patrulha Canina" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/10/patrulha-canina-14-978x1024.png" group-title="ESPECIAIS 24H",24: Patrulha Canina
-http://new.lista.red:80/live/Lucas3453/lp197114/80197.m3u8
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS FHD²
+#EXTM3U
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARIOS", ANIMAL PLANET FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85399.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARIOS", ANIMAL PLANET FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85400.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS", HGTV SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85406.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS", HGTV HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85407.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS", HGTV HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85408.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS", H2 SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85430.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY", DISCOVERY TURBO HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85423.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY", DISCOVERY TURBO FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85424.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES", COMEDY CENTRAL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85663.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES", COMEDY CENTRAL SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85664.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES", COMEDY CENTRAL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85665.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES", COMEDY CENTRAL HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85666.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES", COMEDY CENTRAL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85667.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES", TLC SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85668.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES", TLC SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85669.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES", TLC HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85670.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES", TLC HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85671.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES", TLC FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85672.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", OFF FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/86095.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES", BIS FHD²
 http://new.lista.red:80/live/Lucas3453/lp197114/84794.m3u8
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="VARIEDADES",MTV SD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS", HGTV HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85407.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS", HGTV HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85408.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS", H2 SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85430.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS", H2 SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85431.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS", H2 HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85432.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS", H2 HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85433.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS", H2 FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85434.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARIOS", HISTORY SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85435.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARIOS", HISTORY SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85436.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARIOS", HISTORY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85437.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTARIOS", NAT GEO SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85443.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTARIOS", NAT GEO HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85444.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", OFF HD
+http://new.lista.red:80/live/Lucas3453/lp197114/86093.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", OFF SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/86092.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", OFF SD
+http://new.lista.red:80/live/Lucas3453/lp197114/86091.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS", [+18] - PLAYBOY HD
+http://new.lista.red:80/live/Lucas3453/lp197114/33949.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS", [+18] - PLAYBOY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/34249.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS", [+18] - SEXTREME
+http://new.lista.red:80/live/Lucas3453/lp197114/33948.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS", [+18] - SEXY HOT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/50764.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS", [+18] - VENUS
+http://new.lista.red:80/live/Lucas3453/lp197114/33946.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS", [+18] - SEXY HOT HD*
+http://new.lista.red:80/live/Lucas3453/lp197114/72646.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS", [+18] PLAYBOY
+http://new.lista.red:80/live/Lucas3453/lp197114/74948.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4ercrej" group-title="ADULTOS", [+18] - EROTIC CHANNEL 1
+http://new.lista.red:80/live/Lucas3453/lp197114/80091.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES", BIS FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84794.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS", H2 HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85433.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS", H2 FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85434.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARIOS", HISTORY SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85435.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARIOS", HISTORY SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85436.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARIOS", HISTORY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85437.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTARIOS", NAT GEO SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85443.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTARIOS", NAT GEO HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85444.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTARIOS", NAT GEO FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85445.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIOS", NAT GEO WILD SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85446.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIOS", NAT GEO WILD SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85447.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIOS", NAT GEO WILD HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85448.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIOS", NAT GEO WILD FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85449.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", OFF HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/86094.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", OFF HD
+http://new.lista.red:80/live/Lucas3453/lp197114/86093.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", OFF SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/86092.m3u8
+
+#EXTINF:-1 tvg-logo="https://occ-0-2433-999.1.nflxso.net/art/2af9f/149ac7f103f618fbc78e8756f915e850e822af9f.png" group-title="ESPECIAIS 24H", Um Maluco no Pedaço 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85329.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie.1.png" group-title="ESPECIAIS 24H", As aventuras de Jackie Chan 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85330.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.habbo.com/web_images/habbo-web-articles/fansite_habbid_corrida-maluca-logo1.png" group-title="ESPECIAIS 24H", Corrida Maluca 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85331.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="ESPECIAIS 24H", Kenan e Kel 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85332.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJIk958.pnghttp://www.officialpsds.com/images/thumbs/The-Mask-psd85195.png" group-title="ESPECIAIS 24H", O Mascara 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85333.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/i2VrS4dK5FsmAzUGs-emBnJS5Rq8bcCiMeILrG6XC12KOkWk1JngGw65vh6_MBeflc8X-HCwks6nrncQ746u44Dot6ouYLx1qHe06IGWbw7mOgKnadj-tA" group-title="ESPECIAIS 24H", The Big Bang Theory 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85334.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tico-e-teco-png-1.png" group-title="ESPECIAIS 24H", Tico e Teco 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85335.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv.png" group-title="VARIEDADES", RED BULL TV  FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/84788.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES", BIS SD
+http://new.lista.red:80/live/Lucas3453/lp197114/84789.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES", BIS HD
+http://new.lista.red:80/live/Lucas3453/lp197114/84791.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES", BIS FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/84793.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES", BIS FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84794.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="VARIEDADES", MTV SD
 http://new.lista.red:80/live/Lucas3453/lp197114/84795.m3u8
+
