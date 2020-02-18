@@ -1,178 +1,38 @@
-#EXTM3U
-#EXTINF: -1,AXN
-http://186.103.190.2:8000/play/a027
-#EXTINF: -1,AE Mundo
-http://186.103.190.2:8000/play/a00z
-#EXTINF: -1,AE Mundo
-http://186.103.190.2:8000/play/a00z
-#EXTINF: -1,AXN
-http://186.103.190.2:8000/play/a027
-#EXTINF: -1,Planeta Animal
-http://186.103.190.2:8000/play/a00q
-#EXTINF: -1,Bang TV
-http://186.103.190.2:8000/play/a01y
-#EXTINF: -1,CDF Basico
-http://186.103.190.2:8000/play/a00y
-#EXTINF: -1,CDF PREMIUM
-http://186.103.190.2:8000/play/a00c
-#EXTINF: -1,CNN Chile
-http://186.103.190.2:8000/play/a01i
-#EXTINF: -1,CNN Español
-http://186.103.190.2:8000/play/a005
-#EXTINF: -1,Canal 13
-http://186.103.190.2:8000/play/a00a
-#EXTINF: -1,Canal Claro
-http://186.103.190.2:8000/play/a01t
-#EXTINF: -1,Canal de las estrellas
-http://186.103.190.2:8000/play/a012
-#EXTINF: -1,Cartoon Network
-http://186.103.190.2:8000/play/a01l
-#EXTINF: -1,Cinecanal
-http://186.103.190.2:8000/play/a01b
-#EXTINF: -1,Cinema Dinamita
-http://186.103.190.2:8000/play/a00m
-#EXTINF: -1,Cinemax
-http://186.103.190.2:8000/play/a025
-#EXTINF: -1,Cine Claro
-http://186.103.190.2:8000/play/a02b
-#EXTINF: -1,ClaroSports
-http://186.103.190.2:8000/play/a01n
-#EXTINF: -1,Claromusic
-http://186.103.190.2:8000/play/a01z
-#EXTINF: -1,Canal de descubrimiento
-http://186.103.190.2:8000/play/a00p
-#EXTINF: -1,ID de descubrimiento
-http://186.103.190.2:8000/play/a01s
-#EXTINF: -1,Discovery Kids
-http://186.103.190.2:8000/play/a004
-#EXTINF: -1,Discovery Turbo
-http://186.103.190.2:8000/play/a02d
-#EXTINF: -1,canal Disney
-http://186.103.190.2:8000/play/a00o
-#EXTINF: -1,Disney Jr
-http://186.103.190.2:8000/play/a00l
-#EXTINF: -1,Disney XD
-http://186.103.190.2:8000/play/a018
-#EXTINF: -1,E Entertainment
-http://186.103.190.2:8000/play/a00s
-#EXTINF: -1,ESPN
-http://186.103.190.2:8000/play/a00u
-#EXTINF: -1,ESPN 2
-http://186.103.190.2:8000/play/a00v
-#EXTINF: -1,ESPN 3
-http://186.103.190.2:8000/play/a02e
-#EXTINF: -1,Rodear a
-http://186.103.190.2:8000/play/a01p
-#EXTINF: -1,FOX P ACTION
-http://186.103.190.2:8000/play/a00g
-#EXTINF: -1,FOX P PELÍCULAS
-http://186.103.190.2:8000/play/a00e
-#EXTINF: -1,FOX P SERIE E
-http://186.103.190.2:8000/play/a00f
-#EXTINF: -1,Canal Fox
-http://186.103.190.2:8000/play/a01d
-#EXTINF: -1,vida de zorro
-http://186.103.190.2:8000/play/a01h
-#EXTINF: -1,Fox Sports
-http://186.103.190.2:8000/play/a00t
-#EXTINF: -1,Fox Sports 2
-http://186.103.190.2:8000/play/a013
-#EXTINF: -1,Fox Sports 3
-http://186.103.190.2:8000/play/a014
-#EXTINF: -1,Fox Sports Premium
-http://186.103.190.2:8000/play/a00d
-#EXTINF: -1,TV GOL
-http://186.103.190.2:8000/play/a00w
-#EXTINF: -1,HBO
-http://186.103.190.2:8000/play/a024
-#EXTINF: -1,HBO 2
-http://186.103.190.2:8000/play/a00h
-#EXTINF: -1,Familia HBO
-http://186.103.190.2:8000/play/a00k
-#EXTINF: -1,HBO Plus
-http://186.103.190.2:8000/play/a00i
-#EXTINF: -1,Canal Historia
-http://186.103.190.2:8000/play/a01a
-#EXTINF: -1,Hogar y salud
-http://186.103.190.2:8000/play/a01v
-#EXTINF: -1,Me senté
-http://186.103.190.2:8000/play/a01e
-#EXTINF: -1,la roja
-http://186.103.190.2:8000/play/a006
-#EXTINF: -1,MTV
-http://186.103.190.2:8000/play/a01f
-#EXTINF: -1,Max Prime
-http://186.103.190.2:8000/play/a00j
-#EXTINF: -1,Nat Geo
-http://186.103.190.2:8000/play/a019
-#EXTINF: -1,NatGeo Kids
-http://186.103.190.2:8000/play/a01k
-#EXTINF: -1,Nick Jr
-http://186.103.190.2:8000/play/a02c
-#EXTINF: -1,Nickelodeon
-http://186.103.190.2:8000/play/a017
-#EXTINF: -1,Orbe 21
-http://186.103.190.2:8000/play/a020
-#EXTINF: -1,Sony
-http://186.103.190.2:8000/play/a026
-#EXTINF: -1,TBS
-http://186.103.190.2:8000/play/a01u
-#EXTINF: -1,TCM
-http://186.103.190.2:8000/play/a01j
-#EXTINF: -1,TNT
-http://186.103.190.2:8000/play/a01m
-#EXTINF: -1,TVE
-http://186.103.190.2:8000/play/a01q
-#EXTINF: -1,Telemundo
-http://186.103.190.2:8000/play/a015
-#EXTINF: -1,TyC Sports
-http://186.103.190.2:8000/play/a00x
-#EXTINF: -1,Universal
-http://186.103.190.2:8000/play/a01c
-#EXTINF: -1,ViaX
-http://186.103.190.2:8000/play/a011
-#EXTINF: -1,Warner
-http://186.103.190.2:8000/play/a00r
-#EXTINF: -1,Zona latina
-http://186.103.190.2:8000/play/a01g
-#EXTINF: -1,AE Mundo
-http://186.103.190.2:8000/play/a00n
-#EXTINF: -1,AXN
-http://186.103.190.2:8000/play/a03e
-#EXTINF: -1,CHV
-http://186.103.190.2:8000/play/a010
-#EXTINF: -1,CNN Chile
-http://186.103.190.2:8000/play/a01r
-#EXTINF: -1,Cinemax
-http://186.103.190.2:8000/play/a03c
-#EXTINF: -1,Cine Claro
-http://186.103.190.2:8000/play/a03n
-#EXTINF: -1,ClaroSports
-http://186.103.190.2:8000/play/a01w
-#EXTINF: -1,Claromusico
-http://186.103.190.2:8000/play/a02h
-#EXTINF: -1,Discovery Turbo
-http://186.103.190.2:8000/play/a03p
-#EXTINF: -1,ESPN 2 CO
-http://186.103.190.2:8000/play/a032
-#EXTINF: -1,ESPN 3
-http://186.103.190.2:8000/play/a03r
-#EXTINF: -1,EsneTV
-http://186.103.190.2:8000/play/a03q
-#EXTINF: -1,FOX P SERIE E
-http://186.103.190.2:8000/play/a016
-#EXTINF: -1,FX
-http://186.103.190.2:8000/play/a03g
-#EXTINF: -1,HBO
-http://186.103.190.2:8000/play/a03b
-#EXTINF: -1,MTV
-http://186.103.190.2:8000/play/a01o
-#EXTINF: -1,Nick Jr
-http://186.103.190.2:8000/play/a03o
-#EXTINF: -1,Orbe 21
-http://186.103.190.2:8000/play/a02n
-#EXTINF: -1,RCN Novelas
-http://186.103.190.2:8000/play/a022
-#EXTINF: -1,Sony
-http://186.103.190.2:8000/play/a03d
-#EXTINF: -1,Espacio
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85440.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85441.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85442.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85425.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD²" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85426.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85428.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD  HD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD  HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85427.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85429.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85401.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85402.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="https://3palavrinhas.com.br/wp-content/uploads/2019/09/shows-3palavrinhas-1-1.png" group-title="ESPECIAIS 24H",3 PALAVRINHAS
+http://new.lista.red:80/live/Lucas3453/lp197114/80189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: APENAS UM SHOW*" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/apenas-um-show-png-3.png" group-title="ESPECIAIS 24H",24: APENAS UM SHOW*
+http://new.lista.red:80/live/Lucas3453/lp197114/80181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: CHAVES" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/nome-chaves-png.png" group-title="ESPECIAIS 24H",24: CHAVES
+http://new.lista.red:80/live/Lucas3453/lp197114/80160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: TODO MUNDO ODEIA O CRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title="ESPECIAIS 24H",24: TODO MUNDO ODEIA O CRIS
+http://new.lista.red:80/live/Lucas3453/lp197114/80183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Pica-Pau" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/pica-pau-300x251-1.png" group-title="ESPECIAIS 24H",24: Pica-Pau
+http://new.lista.red:80/live/Lucas3453/lp197114/80194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Patrulha Canina" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/10/patrulha-canina-14-978x1024.png" group-title="ESPECIAIS 24H",24: Patrulha Canina
+http://new.lista.red:80/live/Lucas3453/lp197114/80197.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84794.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="VARIEDADES",MTV SD
+http://new.lista.red:80/live/Lucas3453/lp197114/84795.m3u8
